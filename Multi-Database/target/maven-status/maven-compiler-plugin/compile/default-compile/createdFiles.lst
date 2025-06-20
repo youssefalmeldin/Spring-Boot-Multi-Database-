@@ -1,0 +1,9 @@
+com\example\Multi_Database\repository\mysql\UserRepository.class
+com\example\Multi_Database\model\postgres\Product.class
+com\example\Multi_Database\config\postgres\PostgresConfig.class
+com\example\Multi_Database\controller\ProductController.class
+com\example\Multi_Database\controller\UserController.class
+com\example\Multi_Database\repository\postgres\ProductRepository.class
+com\example\Multi_Database\MultiDatabaseApplication.class
+com\example\Multi_Database\config\mysql\MySQLConfig.class
+com\example\Multi_Database\model\mysql\User.class

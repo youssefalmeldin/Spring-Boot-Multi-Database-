@@ -1,0 +1,9 @@
+E:\web\Spring Boot\Multi-Database\src\main\java\com\example\Multi_Database\config\mysql\MySQLConfig.java
+E:\web\Spring Boot\Multi-Database\src\main\java\com\example\Multi_Database\model\postgres\Product.java
+E:\web\Spring Boot\Multi-Database\src\main\java\com\example\Multi_Database\MultiDatabaseApplication.java
+E:\web\Spring Boot\Multi-Database\src\main\java\com\example\Multi_Database\config\postgres\PostgresConfig.java
+E:\web\Spring Boot\Multi-Database\src\main\java\com\example\Multi_Database\controller\ProductController.java
+E:\web\Spring Boot\Multi-Database\src\main\java\com\example\Multi_Database\model\mysql\User.java
+E:\web\Spring Boot\Multi-Database\src\main\java\com\example\Multi_Database\controller\UserController.java
+E:\web\Spring Boot\Multi-Database\src\main\java\com\example\Multi_Database\repository\postgres\ProductRepository.java
+E:\web\Spring Boot\Multi-Database\src\main\java\com\example\Multi_Database\repository\mysql\UserRepository.java
