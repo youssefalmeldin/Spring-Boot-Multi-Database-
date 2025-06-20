@@ -30,25 +30,33 @@ multi-database-springboot/
 │ ├── MySQLConfig.java # MySQL configuration (User DB)
 │ └── PostgresConfig.java # PostgreSQL configuration (Product DB)
 │
+------------------------------------
 ├── model/
 │ ├── mysql/
 │ │ └── User.java # User entity
 │ └── postgres/
 │ └── Product.java # Product entity
 │
+---------------------------------------
 ├── repository/
 │ ├── mysql/
 │ │ └── UserRepository.java # JPA repository for users
 │ └── postgres/
 │ └── ProductRepository.java# JPA repository for products
 │
+------------------------------------
+
 ├── controller/
 │ ├── UserController.java # REST controller for users
 │ └── ProductController.java # REST controller for products
 │
+------------------------------------
+
 ├── resources/
 │ └── application.properties # DB & JPA configuration
 │
+------------------------------------
+
 └── MultiDatabaseApplication.java # Main Spring Boot class 
 
 
@@ -61,7 +69,7 @@ multi-database-springboot/
 - 🛠️ Dedicated `DataSource`, `EntityManagerFactory`, and `TransactionManager` for each
 - 🔍 SQL logging and auto schema update enabled
 - 🐘 PostgreSQL runs easily via Docker
-- 🐬 MySQL used locally for development
+- 🐬 MySQL is used locally for development
 
 ---
 
